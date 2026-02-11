@@ -1,6 +1,16 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"Mohan-liu 学习笔记",
+    "subTitle":"记录学习点滴，分享技术心得。坚持思考，持续输出。",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/3800656636?v=4",
+    "GMEEK_VERSION":"last",
+    "displayTitle":"Mohan-liu",
+    "homeUrl":"https://3800656636.github.io/mohan-liu.github.io",
+    "faviconUrl":"https://github.githubassets.com/favicons/favicon.svg",
+    "email":"3800656636@qq.com",
+    "startSite":"05/20/2024",
+    "UTC":8,
+    "urlMode":"pinyin",
+    "singlePage":["about"],
+    "bottomText":"转载请注明出处",
+    "ogImage":"https://avatars.githubusercontent.com/u/3800656636?v=4"
 }
